@@ -1,0 +1,26 @@
+_repo: History-of-Negro-Soldiers-in-the-Spanish-American-War-and-Other-Items-of-Interest_11102
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Edward A. (Edward Austin)
+    alias: Johnson, Edward Austin
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '3843'
+    url: http://www.gutenberg.org/2009/agents/3843
+description: ''
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898 -- Participation, African American'
+- !lcc 'E660'
+- GITenberg
+title: History of Negro Soldiers in the Spanish-American War, and Other Items of Interest
+url: http://www.gutenberg.org/ebooks/11102
